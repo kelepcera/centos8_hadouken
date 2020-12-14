@@ -15,7 +15,7 @@
 version: '3'
 services:
     devenv:
-            image: rkaratas/test_centos_8:7
+            image: rkaratas/test_centos_8:8
       # (mgilor): Switched to pre-built image instead.
       #build: 
           #context: .
